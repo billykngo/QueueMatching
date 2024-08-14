@@ -1,8 +1,7 @@
 import { Stack } from "expo-router";
 import React from 'react';
 import HomePage from './index.js';
-//import AboutPage from './pages/AboutPage';
-//import NotFoundPage from './pages/NotFoundPage';
+import 
 
 export default function RootLayout() {
   return (

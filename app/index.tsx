@@ -1,5 +1,4 @@
 import { Text, View, SafeAreaView, Button, StyleSheet } from "react-native";
-
 /*{flex: 1,
 justifyContent: "center",
 alignItems: "center", }*/
